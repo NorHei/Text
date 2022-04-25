@@ -9,3 +9,10 @@ SQL;Structured Query Language;SQL;;0;0
 XML;Extensible Markup Language;XML;;0;0
 SVN;Subversion;SVN;;0;0
 CSV;Comma Separated Values;CSV;;0;0
+JSON;Javascript Object Notation;JSON;;0;0
+DHG;Dr. Heuer GmbH;DHG;;0;0
+DBMS;Datenbank Management System;DBMS;;0;0
+VLAN;Virtuelles LAN;VLAN;;0;0
+LAN ;Local Area Network;LAN;;0;0
+SMTP;Simple Mail Transfer Protocol;SMTP;;0;0
+GIT;verteilte Versionsverwaltung von Dateien;GIT;;0;0
